@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+}
+.btn {
+	background-color: #07393c;
+	color: white;
+}
